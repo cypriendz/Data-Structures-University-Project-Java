@@ -1,0 +1,12 @@
+---
+:id: 39719989
+:submitters:
+- :name: Cyprien Dzialo
+  :email: cdzialo@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-07-06 21:55:26.048124000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-07-06 14:55:26.048124000 Z
+:status: processed
+:score: 115.0
